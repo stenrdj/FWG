@@ -1,0 +1,38 @@
+<div class="content">
+	<ul>
+		<li>
+			<h4> Ajout donèe</h4>
+			<input type="text" name="taskname" [(ngModel)]="title" /><button (click)="addtask()">Envoyer</button>
+		</li>
+		<li> <h4> a faire</h4>
+			<table>
+				<ng-container *ngFor="let task of tasks; let i=index">
+				<tr  *ngIf="!task.complet && !task.update">					
+					<td ><input type="checkbox"  name="taskcheck" (click)="completit(i,$event.target.checked)"></td>
+					<td>{{task.title}} </td>
+					<td><a href="#" (click)="modifier(i)" >Modifier</a><br><a href="#" (click)="supp(i)">Supprimer</a></td>
+					
+				</tr>
+				
+				<tr *ngIf="task.update">
+					<td><input type="checkbox" (click)="completit(i,$event.target.checked)" ></td>
+					<td><input type="text" name='taskname'    #title value="{{task.title}}"/></td>
+					<td><button (click)="update(i,title.value)">Update task</button></td>
+				</tr>
+				</ng-container >
+			</table>
+			
+		</li>
+		<li> <h4> completer</h4>
+			<table>
+				<ng-container *ngFor="let task of tasks; let i=index">
+				<tr  *ngIf="task.complet">
+					<td><input type="checkbox" checked="{{task.complet}}"></td>
+					<td><span class="strick">Achete un ticket</span></td>
+					<td><a href="">Modifier</a><br><a href="#" (click)="supp(i)">Supprimer</a></td>
+				</tr>
+				</ng-container>
+			</table>
+		</li>
+	</ul>
+</div>

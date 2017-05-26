@@ -1,0 +1,36 @@
+.content{
+width:700px;
+margin-left: auto;
+margin-right: auto;
+}
+
+ul{
+	list-style-type: none;
+}
+ul li h4{
+	text-transform: uppercase;
+	border-bottom:2px solid #000;
+}
+
+input[type=text]{
+	width: 50%;
+		height: 30px;
+		border:1px solid #ccc;
+		border-radius: 4px;
+}
+table{
+	width:100%;
+}
+table tr{
+	display: table;
+	width:100%;
+	border-bottom: 1px solid #ccc;
+}
+table tr td:last-child{
+	width:10%;
+}table tr td:first-child{
+	width:5%;
+}
+.strick{
+	    text-decoration: line-through;
+}
