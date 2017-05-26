@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mini",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"livereload",
+				"LiveReload: Self test"
+			],
+			[
+				"live",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"Angular",
+				"Angular CLI: generate component --with Options"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"angularjs",
+				"Snippet: Angular.js"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript (Webpack)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"angular ",
+				"Angular CLI: generate module --with Options"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 568.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/aziz/Desktop/fullwaveagency/project",
+		"/Users/aziz/Desktop/fullwaveagency/template/gulpfile.js",
+		"/Users/aziz/Desktop/fullwaveagency/template/package.json",
+		"/Users/aziz/Downloads/quench-project 2/gulpfile.js",
+		"/Users/aziz/Downloads/quench-project 2/package.json",
+		"/Users/aziz/ownCloud/Projects/Mobile apps/Chatapp/api/api/routes/web.php",
+		"/Users/aziz/ownCloud/Projects/Mobile apps/Chatapp/api/api/app/User.php",
+		"/Users/aziz/Downloads/altair_v332/altair/templates/template-password.php",
+		"/Users/aziz/Desktop/index.html",
+		"/Users/aziz/Desktop/untitled.css",
+		"/Users/aziz/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/aziz/Downloads/saharatr_es.sql",
+		"/Users/aziz/Downloads/saharatr_en.sql",
+		"/Users/aziz/Downloads/lumen-master/bootstrap/app.php",
+		"/Users/aziz/Downloads/lumen-master/.env",
+		"/Users/aziz/Downloads/lumen-master/routes/web.php",
+		"/Users/aziz/Downloads/lumen-master/app/User.php",
+		"/Users/aziz/Downloads/me%40azizsegaoui.me%20Email%20Settings.reg",
+		"/Users/aziz/ownCloud/Github/tame-assessment/.git/config",
+		"/Users/aziz/ownCloud/Github/tame-assessment/.travis.yml",
+		"/Users/aziz/ownCloud/Github/tame-assessment/.gitignore",
+		"/Users/aziz/Downloads/docker-odoo-image-master/build.py",
+		"/Users/aziz/ownCloud/Github/tame-assessment/README.md",
+		"/Users/aziz/ownCloud/Projects/Mobile apps/wtsapCR/config.xml",
+		"/Users/aziz/ownCloud/Projects/Mobile apps/wtsapCR/src/app/app.component.ts",
+		"/Users/aziz/ownCloud/Projects/Mobile apps/wtsapCR/src/pages/home/home.ts",
+		"/Users/aziz/ownCloud/Projects/Mobile apps/wtsapCR/src/index.html",
+		"/Users/aziz/ownCloud/Projects/Mobile apps/wtsapCR/www/service-worker.js",
+		"/Users/aziz/ownCloud/Github/tame-assessment/tests/app/arrays.js",
+		"/Users/aziz/ownCloud/Github/tame-assessment/app/arrays.js",
+		"/Users/aziz/ownCloud/Github/tame-assessment/app/strings.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dotenv",
+			";\n",
+			"options2",
+			"left-text-name",
+			"#article",
+			"2016"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"2017"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
